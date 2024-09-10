@@ -45,4 +45,3 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 - [W3Schools](https://www.w3schools.com/) for providing excellent resources on HTML and CSS.
 - [CSS-Tricks](https://css-tricks.com/) for their valuable tips and tricks on web design.
-```
