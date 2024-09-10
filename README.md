@@ -29,11 +29,11 @@ This project demonstrates how to create cue cards using HTML and CSS with a focu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cue-cards-project.git
+   git clone https://github.com/MahapatroHari/Cuecards.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cue-cards-project
+   cd Cuecards
    ```
 3. Open `index.html` in your web browser to view the cue cards.
 
