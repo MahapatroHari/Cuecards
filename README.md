@@ -1,4 +1,4 @@
-# Cue Cards Project
+# Cue Cards Project (CSS)
 
 ## Table of Contents
 
